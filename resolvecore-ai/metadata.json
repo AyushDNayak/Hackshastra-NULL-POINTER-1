@@ -1,0 +1,6 @@
+{
+  "name": "ResolveCore AI",
+  "description": "AI-based multi-agent complaint management and resolution assistant featuring voice intake, automated NLP triage, priority escalation, smart department routing, SLA monitoring, and executive analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
